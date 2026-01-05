@@ -1,0 +1,8 @@
+ok bet
+\Q choose an option 
+\O i am so happy i could cry
+\O then cry 
+\O im just gonna cry
+\R remove the file test
+\O yippee 
+\R ok

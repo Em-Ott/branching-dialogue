@@ -1,0 +1,8 @@
+ok bet
+\Q choose an option !
+\O i did the mini-project?
+\R hopefully ok
+\O im just gonna cry
+\R its not working
+\O yippee!!!
+\R ok

@@ -1,0 +1,8 @@
+testing file travel for answers
+\Q "choose an option?"
+\O let's test more options
+\R \"testDialogueOptions"
+\O let's test normal options
+\R \"testDialogueOne"
+\O yippee 
+\R ok
